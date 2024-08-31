@@ -1,0 +1,134 @@
+[
+    {
+        "contact": "+918218150058",
+        "dateofbirth": "02-09-2002",
+        "name": "Bhavika Singhal",
+        "friendslist": [
+            {
+                "contact": "+917070128673",
+                "name": "Riya Mehta"
+            },
+            {
+                "contact": "+917070128674",
+                "name": "Sahil Horo"
+            }
+        ]
+    },
+    {
+        "contact": "+917070128673",
+        "dateofbirth": "14-05-2004",
+        "name": "Riya Mehta",
+        "friendslist": [
+            {
+                "contact": "+918218150058",
+                "name": "Bhavika Singhal"
+            },
+            {
+                "contact": "+917070128674",
+                "name": "Sahil Horo"
+            },
+            {
+                "contact": "+918765432109",
+                "name": "Arjun Malhotra"
+            }
+        ]
+    },
+    {
+        "contact": "+917070128674",
+        "dateofbirth": "30-12-2003",
+        "name": "Sahil Horo",
+        "friendslist": [
+            {
+                "contact": "+918218150058",
+                "name": "Bhavika Singhal"
+            },
+            {
+                "contact": "+917070128673",
+                "name": "Riya Mehta"
+            }
+        ]
+    },
+    {
+        "contact": "+918765432109",
+        "dateofbirth": "20-04-2002",
+        "name": "Arjun Malhotra",
+        "friendslist": [
+            {
+                "contact": "+917070128673",
+                "name": "Anugya Tyagi"
+            },
+            {
+                "contact": "+919191919191",
+                "name": "Ishika Singhal"
+            },
+            {
+                "contact": "+917070128673",
+                "name": "Riya Mehta"
+            }
+        ]
+    },
+    {
+        "contact": "+919191919191",
+        "dateofbirth": "10-12-2003",
+        "name": "Ishika Singhal",
+        "friendslist": [
+            {
+                "contact": "+918765432109",
+                "name": "Arjun Malhotra"
+            },
+            {
+                "contact": "+917777888999",
+                "name": "Anugya Tyagi"
+            }
+        ]
+    },
+    {
+        "contact": "+917777888999",
+        "dateofbirth": "02-11-2000",
+        "name": "Sanya Sharma",
+        "friendslist": [
+            {
+                "contact": "+919191919191",
+                "name": "Ishika Mishra"
+            },
+            {
+                "contact": "+916666555444",
+                "name": "Rohan Verma"
+            }
+        ]
+    },
+    {
+        "contact": "+916666555444",
+        "dateofbirth": "05-07-1995",
+        "name": "Rohan Verma",
+        "friendslist": [
+            {
+                "contact": "+917777888999",
+                "name": "Alice"
+            },
+            {
+                "contact": "+918989898989",
+                "name": "Vihaan Gupta"
+            }
+        ]
+    },
+    {
+        "contact": "+918989898989",
+        "dateofbirth": "25-01-1999",
+        "name": "Vihaan Gupta",
+        "friendslist": [
+            {
+                "contact": "+916666555444",
+                "name": "Rohan Verma"
+            },
+            {
+                "contact": "+917171717171",
+                "name": "Mira Nair"
+            },
+            {
+                "contact": "+917777888999",
+                "name": "Alice"
+            }
+        ]
+    }
+]
